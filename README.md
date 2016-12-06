@@ -1,2 +1,0 @@
-# ranqe.github.io
-welcome
