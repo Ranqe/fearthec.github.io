@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ranqe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://fearthec.com
+  * I am ranqe (https://keybase.io/ranqe) on keybase.
+  * I have a public key with fingerprint 683A 9C27 0DDD 9779 BF8E  D2A8 C99F 2388 68DD 7B09
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e1fc90cdcf7576ab7eee766f7d64c2b22c280e884cb71bf51cfb0feeb0e163680a",
+      "fingerprint": "683a9c270ddd9779bf8ed2a8c99f238868dd7b09",
+      "host": "keybase.io",
+      "key_id": "c99f238868dd7b09",
+      "kid": "0101e1fc90cdcf7576ab7eee766f7d64c2b22c280e884cb71bf51cfb0feeb0e163680a",
+      "uid": "3981dcdeaa2696ca148e8c51323d3219",
+      "username": "ranqe"
+    },
+    "service": {
+      "hostname": "fearthec.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506372576,
+  "expire_in": 157680000,
+  "prev": "2caf54cfb7dbef9af347b3d5cb87aad02d9fba46aa51f95403e5d34473c0237e",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSBVRFB2zMjUr6CFGBQ0UCTeb9zlzo8dHZoiXKEp6X85r7p2uzlzn
+jpqJ9IagsND8UUjqIwgjehBGLzIzSiOxDCophD4MBSOjohDqjNhfn52fw9l7rbXX
+2pzHOelCVtrwwr7mtgszl6T1dDRWCjufJQZrRezSGjFcKybYxMXKKEv50YRNxbAo
+yZLMZIuYEqHEAjowEAaMMWAYFqCGRhSsKESBEoNQIxjI2NJlYmHJYgxLTDZUA0pI
+DImW7cSYl/Rsx+eyBlSRSRQgUUpNAExsQUYVBIlpWooKoQEpBVgyOTHupgIGN4dR
+ihXYLq/xR3TC3j/w/9l35YScakKZEsoQUgzTIEjWIINEl1VFpaoiB3MrU8xzUDnj
+aA85FUysC4m8VGUTFmw1iDHZthjy/DgjBcQt58Sk5/oucct4J+77yXBA9GuSAbKa
+4eikRhTbDuU75IQq5qVs1xHDMkcS3w5EZV0yVKDwnCGRHUjaHovaAYIXoMRPMIZV
+cUmFIEvXeFJAMbNMZKkawCrVCYYAISop1LQw0gyEdNkydU1SmU5VTQMqkRQVMDFI
+VeG4YhhymyjGJVN2zEF+pccjP3q4Z6qQliVMnzYl+FtCVuacvz9uKDfjd8XCwe46
+oX7elsfC9qUfraKGscWjZ04dzLzWdf17zrf9vfF9HSMj7mDr7tWNtGegTdEWpfrG
+NyqvIstXJD6sHu6oHnrZ8u3kCaErgxWi9qbN9V+fqC/WRa7sKv+5+MuszoHBkzsK
+W0PivQMlAx3PxxPLf0Q+vw73tpWsH9kn1N2aS270e3f2Zhw5lrkJS1PSvDxPbofv
+8l8vaO1vPp7d/PTDyK/RNbkr50RmtmxrGzX7O903Z8fuvh9v2C/0LOs/fff8g/xY
+8fzY0idN5Znb114s9bprQumXit91r1/Ue/926Xmw6tzR+NvEzew9W28eunzHqaHF
+nZHZh/NKR6/O+FRVtKHwDyCjRKI=
+=0Crx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ranqe
+
+==================================================================
