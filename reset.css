@@ -29,15 +29,12 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	margin: auto;
 	line-height: 1;
 }
 ol, ul {
-	margin: auto;
 	list-style: none;
 }
 blockquote, q {
-	margin: auto;
 	quotes: none;
 }
 blockquote:before, blockquote:after,
@@ -46,7 +43,6 @@ q:before, q:after {
 	content: none;
 }
 table {
-	margin: auto;
 	border-collapse: collapse;
 	border-spacing: 0;
 }
